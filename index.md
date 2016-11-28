@@ -32,11 +32,11 @@ Trainee at EGAS -  Software Developer
 -Activities and Societies: acmASCIS, AYBASU
 
 __The First Seconadry School
--High school,  Score: 99.2% `2004 - 2007`
+- High school,  Score: 99.2% `2004 - 2007`
 
 
 __Futures Language School 
--Preparatory School, 1994 - 2004
+- Preparatory School, 1994 - 2004
 
 
 ## Volunteer Experience
