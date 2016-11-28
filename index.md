@@ -27,7 +27,7 @@ Trainee at EGAS -  Software Developer
 
 ## Education
 
- - Ain Shams University
+ __Ain Shams University
 *Bachelor of Computer and Information Science, Computer Science, `2007 - 2011`
 *Activities and Societies: acmASCIS, AYBASU
 
