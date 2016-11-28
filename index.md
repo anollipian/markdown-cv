@@ -49,7 +49,7 @@ __Head of Publicity committee at acmASCIS Student Chapter
 - Recruiting Campaigns.
 - One of the main organizers of Experience Sharing Day "https://www.facebook.com/ExperienceSharingDay/"
 
-f__Member of Kids Education team at Alashanek Ya Balady - Ain Shams University
+__Member of Kids Education team at Alashanek Ya Balady - Ain Shams University
 	`February 2010 - August 2011`
 Working on the skills development and educational enhancement of underprivileged children.
 
