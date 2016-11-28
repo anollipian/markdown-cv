@@ -17,10 +17,10 @@ Software Developer
 Voluntiring Work
 
 `March 2012 - September 2013`
-Software Engineer at Code Lab - Web & Mobile Developer
+Software Engineer at Code Lab - Web and Mobile Developer
 
 `August 2010 - September 2010`
-Trainee at King Sedco - Testing & Software Support
+Trainee at King Sedco - Testing and Software Support
 
 `June 2009 - July 2009`
 Trainee at EGAS -  Software Developer
@@ -72,7 +72,7 @@ __E-memory: Mobile Application for Real- Time Face Recognition
 
 __Al Jadwal
 `October 2012 to January 2013`
-Mobile Application for IOS and Android using PhoneGap framework. It's an application made for teachers and students to make it easier for them to add their subjects' assignments & notes for each lesson.
+Mobile Application for IOS and Android using PhoneGap framework. It's an application made for teachers and students to make it easier for them to add their subjects' assignments and notes for each lesson.
 
 __School Echo
 `January 2013 to September 2013`
@@ -97,13 +97,13 @@ __Human Development Courses `2007 - 2012` - Zedny Academy
 
 
 
-## Skills & Expertise
+## Skills and Expertise
 C#, SQL, Prolog, Databases, Data Structures, HTML, OOP, Algorithms, PhoneGap, AngularJS, Web Development, JQuery, JavaScript
 
 
 ### Other interests
 
-Children Education & Healthy Cooking
+Children Education and Healthy Cooking
 
 
 <!-- ### Footer
