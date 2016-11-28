@@ -27,15 +27,15 @@ Trainee at EGAS -  Software Developer
 
 ## Education
 
- __Ain Shams University
--Bachelor of Computer and Information Science, Computer Science, `2007 - 2011`
--Activities and Societies: acmASCIS, AYBASU
+ __ Ain Shams University
+- Bachelor of Computer and Information Science, Computer Science, `2007 - 2011`
+- Activities and Societies: acmASCIS, AYBASU
 
-__The First Seconadry School
+__ The First Seconadry School
 - High school,  Score: 99.2% `2004 - 2007`
 
 
-__Futures Language School 
+__ Futures Language School 
 - Preparatory School, 1994 - 2004
 
 
@@ -49,7 +49,7 @@ __Head of Publicity committee at acmASCIS Student Chapter
 - Recruiting Campaigns.
 - One of the main organizers of Experience Sharing Day "https://www.facebook.com/ExperienceSharingDay/"
 
-__Member of Kids Education team at Alashanek Ya Balady - Ain Shams University
+f__Member of Kids Education team at Alashanek Ya Balady - Ain Shams University
 	`February 2010 - August 2011`
 Working on the skills development and educational enhancement of underprivileged children.
 
