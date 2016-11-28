@@ -1,7 +1,3 @@
----
-layout: cv
-title: Rana Mahdy CV
----
 # Rana Mahdy
 Software Developer
 
