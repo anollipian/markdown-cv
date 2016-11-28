@@ -2,10 +2,10 @@
 Software Developer
 
 <div id="webaddress">
-<a href="rana.m.mahdy@gmail.com">rana.m.mahdy@gmail.com</a>
+<a href="rana.m.mahdy@gmail.com">rana.m.mahdy@gmail.com </a>
 </div>
 
-<div id="Phone"> 425-802-4859 </div>
+<p id="Phone">425-802-4859</p>
 <div id="Address"> 4039 145th Ave Ne, Bellevue 98007 <div>
 
 
