@@ -36,7 +36,7 @@ __The First Seconadry School__
 
 
 __Futures Language School__
-- Preparatory School, 1994 - 2004
+- Preparatory School, `1994 - 2004`
 
 
 ## Volunteer Experience
