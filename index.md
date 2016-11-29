@@ -28,15 +28,15 @@ Trainee at EGAS -  __Software Developer__
 ## Education
 
 __Ain Shams University__
-*Bachelor of Computer and Information Science, Computer Science, `2007 - 2011`
-*Activities and Societies: acmASCIS, AYBASU
+- Bachelor of Computer and Information Science, Computer Science, `2007 - 2011`
+- Activities and Societies: acmASCIS, AYBASU
 
 __The First Seconadry School__
-* High school,  Score: 99.2% `2004 - 2007`
+- High school,  Score: 99.2% `2004 - 2007`
 
 
 __Futures Language School__
-* Preparatory School, 1994 - 2004
+- Preparatory School, 1994 - 2004
 
 
 ## Volunteer Experience
