@@ -98,7 +98,7 @@ Photo Editor using C#
 
 
 ## Skills and Expertise
-C#, SQL, Prolog, Databases, Data Structures, HTML, OOP, Algorithms, PhoneGap, AngularJS, Web Development, JQuery, JavaScript
+C#, SQL, Databases, Data Structures, OOP, Algorithms, HTML, PhoneGap, Web Development
 
 
 ### Other interests
